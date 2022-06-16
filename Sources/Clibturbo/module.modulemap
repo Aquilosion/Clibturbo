@@ -1,0 +1,5 @@
+module Clibturbo {
+	header "../../Headers/Clibturbo-Bridging-Header.h"
+	link "turbojpeg"
+	export *
+}
